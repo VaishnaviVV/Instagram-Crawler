@@ -1,5 +1,6 @@
 
-#Instagram Crawler 
+# Instagram Crawler 
+
 In today's trend, Social media platforms have become a part of our daily life. Instagram crawler was inspired by the thought of analysing the relationship between the hashtags. The project helps in discovering the crawling of Instagram data without the use of API. It has 4 main R scripts. The project can be used to download and analyse the most recent posts for any specific hashtag that the user wants to explore. 
 The post details such as post ID, URL, number of likes, post owner ID, post text and post date can be viewed in a CSV file after being extracted. The other hashtags are automatically extracted from the post text.
 Exported related hashtags are exported in a CSV along with the frequency. A graph is plotted showing the relationship of hashtags. The graph is furtherly analyzed graph in Gephi that gives all the details and centrality measures about the nodes of the graph. The list of edges act as the nodes of the graph.
