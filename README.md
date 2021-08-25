@@ -5,10 +5,14 @@ Exported related hashtags are exported in a CSV along with the frequency. A grap
 
 
 ![image](https://user-images.githubusercontent.com/66016300/130719858-46b18d41-ef78-4866-a871-2d7fc827227d.png)
+
 Graph’s degree is calculated and hashtags with less frequency are filtered 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/66016300/130719920-47805507-5fdd-49e8-958f-7ddab2c4c427.png)
+
 Graph created for which the relation between hashtags(nodes) is to be found
 
 
